@@ -2,6 +2,13 @@
 
 <img height="350px" width="1000px" src="./andersonlopes.gif"/>
 
+<div>
+  <a href="https://github.com/andersonllopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
@@ -10,12 +17,12 @@
       </a>
       <br>React.js
     </td>
-    <td align="center"  width="140" height="112.43">
+    <!-- <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
         <img src="./react-original.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
-    </td>
+    </td> -->
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
