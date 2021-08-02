@@ -1,82 +1,21 @@
-### Hello my friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <img height="350px" width="1000px" src="./andersonlopes.gif"/>
 
 <div align= "center">
   <a href="https://github.com/andersonllopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
-<table align= "center">
-  <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <!-- <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td> -->
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./git.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    </br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
-      </a>
-      <br>Styled-components
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-   </tr>
-  </tr>
+<p align="center">
+  <a href="mailto:anderson2009@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.instagram.com/anderson_llopes"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/anderson-lopes-b4b83713a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://open.spotify.com/user/22e6xkeh4iobxrq5mnoedzqyq"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+</p>
   
-</table>
 </br>
 
 <td align="center"  width="140" height="112.43">
