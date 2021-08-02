@@ -1,6 +1,6 @@
 ### Hello my friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img height="350px" width="1000px" src="./galaxy.gif"/>
+<img height="350px" width="1000px" src="./andersonlopes.gif"/>
 
 <table align= "center">
   <tr>
