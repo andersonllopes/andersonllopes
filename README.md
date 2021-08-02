@@ -2,7 +2,7 @@
 
 <img height="350px" width="1000px" src="./andersonlopes.gif"/>
 
-<div>
+<div align= "center">
   <a href="https://github.com/andersonllopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&theme=dracula"/>
