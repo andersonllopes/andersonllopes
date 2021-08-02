@@ -10,10 +10,10 @@
 
 
 <p align="center">
-  <a href="mailto:anderson2009@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.instagram.com/anderson_llopes"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.linkedin.com/in/anderson-lopes-b4b83713a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://open.spotify.com/user/22e6xkeh4iobxrq5mnoedzqyq"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  <a href="mailto:anderson2009@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.instagram.com/anderson_llopes" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/anderson-lopes-b4b83713a/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://open.spotify.com/user/22e6xkeh4iobxrq5mnoedzqyq" target="_blank"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 </p>
   
 </br>
