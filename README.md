@@ -1,78 +1,52 @@
+<table>
+
+  <img height="350px" width="1000px" src="./andersonlopes.gif"/>
+
+  <div align= "center">
+    <a href="https://github.com/andersonllopes">
+    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000&include_all_commits=true&count_private=true"/>
+    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000"/>
+  </div>
 
 
-<img height="350px" width="1000px" src="./andersonlopes.gif"/>
-
-<div align= "center">
-  <a href="https://github.com/andersonllopes">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-<p align="center">
-  <a href="mailto:anderson2009@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.instagram.com/anderson_llopes" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.linkedin.com/in/anderson-lopes-b4b83713a/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://open.spotify.com/user/22e6xkeh4iobxrq5mnoedzqyq" target="_blank"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-</p>
-  
-</br>
-
-<td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img height="250px" width="200px" src="./casino.gif"/>
-      </a>
-       <br>Casino roulette Project   
-</td>
-
-<br>
-<br>
+  <p align="center">
+    <a href="mailto:anderson2009@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+    <a href="https://www.instagram.com/anderson_llopes" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+    <a href="https://www.linkedin.com/in/anderson-lopes-b4b83713a/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://open.spotify.com/user/22e6xkeh4iobxrq5mnoedzqyq" target="_blank"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  </p>
 
 
-![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
+
+  <img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical&no-frame=true&title=Commit,Repositories" />
 
 
-</br>
-📫 You can reach me:
-</br>
-<a href="https://www.linkedin.com/in/thalesbmc/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
-</br>
-</br>
-<a href="mailto:thalesbmc@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a>
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical&no-frame=true&title=Commit,Repositories" />
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
-  
 
 
-<h2 align="center">Repositories</h2>
+  <h2 align="center">Repositories</h2>
 
-<p width="100%" align="center">
-   <a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
-  <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
- 
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="right" href="https://github.com/ThalesBMC/React-Native-PomodoroAPP" title="Pomodoro with React Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=React-Native-PomodoroAPP&theme=nightowl"></a>
-  <a align="left" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=nightowl"></a>
-</p>
-<br><br>
-<br><br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+  <p width="100%" align="center">
+     <a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
+    <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
 
- <a href="https://github.com/MacroPower/ThalesBMC">
-    <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
- </a>
+  </p>
+  <br><br>
+  <p width="100%" align="center">
+    <a align="right" href="https://github.com/ThalesBMC/React-Native-PomodoroAPP" title="Pomodoro with React Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=React-Native-PomodoroAPP&theme=nightowl"></a>
+    <a align="left" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=nightowl"></a>
+  </p>
+  <br><br>
+  <br><br><br><br><br><br><br>
+  <h4 align="center">
+    <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  </h4>
+
+   <a href="https://github.com/MacroPower/ThalesBMC">
+      <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
+   </a>
+    </table>
 
 
 
