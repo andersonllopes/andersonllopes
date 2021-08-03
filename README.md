@@ -2,10 +2,7 @@
   <div class="container">
 
   <img height="350px" width="1000px" src="./andersonlopes.gif"/>
-   <div>
-    <img src="https://images.tcdn.com.br/img/img_prod/887468/papel_de_parede_preto_fosco_2103_1_49d8c531a25061707425e79ef8931cfb.jpg"> 
-    <figcaption>Teste</figcaption>
-   <div>
+  <img height="350px" width="1000px" src="./part2.gif"/>
      
   
 
