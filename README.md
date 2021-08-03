@@ -9,8 +9,8 @@
 
   <div align= "center">
     <a href="https://github.com/andersonllopes">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000"/>
   </div>
   <br>
   <p align="center">
