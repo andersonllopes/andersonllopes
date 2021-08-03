@@ -12,8 +12,7 @@
     <img height="205em" src="https://github-readme-stats.vercel.app/api?username=andersonllopes&show_icons=true&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000&include_all_commits=true&count_private=true"/>
     <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonllopes&layout=compact&langs_count=7&title_color=d41313&icon_color=d41313&text_color=ffff&bg_color=0,000000,000000"/>
   </div>
-
-
+  <br>
   <p align="center">
     <a href="mailto:anderson2009@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
     <a href="https://www.instagram.com/anderson_llopes" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
