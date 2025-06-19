@@ -1,7 +1,6 @@
 <div class="container">
   <div>
     <img height="350px" width="1000px" src="./images/bem_vindo.gif"/>
-    <img height="450px" width="1000px" src="./images/anderson.gif"/>
   </div>
 
   ## 🚀 Sobre Mim
